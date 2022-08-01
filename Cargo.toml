@@ -3,6 +3,10 @@ name = "averse"
 version = "0.1.0"
 edition = "2021"
 authors = ["John Vivian <https://github.com/jvivian>"]
+license = "MIT"
+description = "A YAML-serialized recipe store and meal planner"
+documentation = "https://docs.rs/averse"
+repository = "https://github.com/jvivian/averse"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

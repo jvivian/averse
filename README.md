@@ -1,0 +1,1 @@
+A Rust CLI tool for storing/viewing recipes and weekly meal planning
