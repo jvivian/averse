@@ -1,0 +1,52 @@
+---
+name: dill pasta salad
+tags:
+  - instant pot
+  - salad
+  - healthy
+ingredients:
+  - name: rigatoni pasta
+    amount: 8.0
+    unit: Oz
+  - name: pickle juice
+    amount: 0.5
+    unit: Cup
+  - name: garlic
+    amount: 1.0
+    unit: Tbsp
+  - name: dried dill
+    amount: 2.0
+    unit: Tsp
+  - name: olive oil
+    amount: 0.5
+    unit: Cup
+  - name: salt
+    amount: 0.75
+    unit: Tsp
+  - name: onion powder
+    amount: 1.0
+    unit: Tsp
+  - name: pickle juice
+    amount: 0.25
+    unit: Cup
+  - name: dijon mustard
+    amount: 1.0
+    unit: Tbsp
+  - name: pepperoni
+    amount: 1.0
+    unit: Cup
+  - name: cheddar cheese
+    amount: 1.0
+    unit: Cup
+  - name: cherry tomatoes
+    amount: 1.0
+    unit: Cup
+  - name: dill pickle
+    amount: 1.5
+    unit: Cup
+steps:
+  - Cook pasta
+  - "Add pasta, 1.5 cup water, and pickle juice to instant pot and 3min QR"
+  - "Make dressing: whisk garlic, dill, olive oil, salt, onion powder, pickle juice, and mustard"
+  - "Prepare salad: chop pepperoni, cube dcheese, halve tomatoes, and dice pickles"
+  - "Toss salad. Add dressing and salad items into pasta. Coat pasta well with dressing. Add salta and pepper"

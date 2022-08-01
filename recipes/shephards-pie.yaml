@@ -1,0 +1,53 @@
+---
+name: shephards-pie
+tags:
+  - instant pot
+  - mealprep
+ingredients:
+  - name: potato
+    amount: 4.0
+    unit: Item
+  - name: egg
+    amount: 1.0
+    unit: Item
+  - name: garlic powder
+    amount: 1.0
+    unit: Tsp
+  - name: butter
+    amount: 2.0
+    unit: Tbsp
+  - name: ground beef
+    amount: 1.0
+    unit: Lb
+  - name: worcestershire sauce
+    amount: 2.0
+    unit: Tbsp
+  - name: onion
+    amount: 1.0
+    unit: Item
+  - name: carrots
+    amount: 3.0
+    unit: Item
+  - name: mushrooms
+    amount: 1.0
+    unit: Cup
+  - name: frozen peas
+    amount: 1.0
+    unit: Cup
+  - name: beef broth
+    amount: 1.0
+    unit: Cup
+  - name: flour
+    amount: 3.0
+    unit: Tbsp
+  - name: cheddar cheese
+    amount: 1.0
+    unit: Cup
+steps:
+  - "Combine potato cubes, 1 cup water, and 1 tsp salt in instant and cook on 8 minutes QR"
+  - "Drain potatoes and transfer to mixing bowl. Add 1 egg, 1 tsp garlic powder, 2 tbsp butter and mash or whip. Add salt"
+  - Saute ground beef in instant pot for 5 minutes
+  - "Add worcestershire sauce, carrots, onions, peas, mushrooms, and 1tsp salt and pepper and combine."
+  - Mix beef broth and flour and stir to combine then add to instant pot and deglaze
+  - Top beef mixture with mashed potatos and cook on high pressure for 10 mintues QR
+  - Top with cheese and serve

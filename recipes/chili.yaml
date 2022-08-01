@@ -1,0 +1,69 @@
+name: chili
+tags: 
+  - instant pot
+  - chili 
+  - cold weather
+ingredients:
+  - name: ground beef
+    amount: 1.5
+    unit: Lb
+  - name: onion
+    amount: 1
+    unit: Item
+  - name: garlic
+    amount: 4
+    unit: Item
+  - name: kidney beans
+    amount: 4
+    unit: Can
+  - name: crushed tomatoes
+    amount: 1
+    unit: Can
+  - name: tomato paste
+    amount: 3
+    unit: Tbsp 
+  - name: chili powder
+    amount: 1.5
+    unit: Tbsp
+  - name: cumin seed
+    amount: 1
+    unit: Tbsp
+  - name: dried oregano
+    amount: 1
+    unit: Tbsp
+  - name: olive oil
+    amount: 1
+    unit: Tbsp
+  - name: apple cider vinegar
+    amount: 1
+    unit: Tbsp
+  - name: chicken stock
+    amount: 1
+    unit: Cup
+  - name: fish sauce
+    amount: 2
+    unit: Tbsp
+  - name: soy sauce
+    amount: 1
+    unit: Tbsp
+  - name: cocoa powder
+    amount: 1
+    unit: Tbsp
+  - name: sour cream
+    amount: 1
+    unit: Item
+  - name: jalapeno
+    amount: 1
+    unit: Item
+  - name: green onions
+    amount: 1
+    unit: Item
+  - name: cheddar cheese
+    amount: 1
+    unit: Item
+steps:
+  - Saute beef in instant pot 5 minutes
+  - add diced onions, minced garlic, ground cumin seed, chili powder, oregano 5m
+  - mix chicken stock, fish sauce, soy sauce, cocoa powder. Use half to deglaze then add remainder. 
+  - Add drained kidney beans and mix well. Add tomato paste and crushed tomatoes on top then close and cook 10 minutes + natural release.
+  - Mix in apple cider vinegar

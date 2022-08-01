@@ -1,0 +1,50 @@
+---
+name: 2022-15-22
+recipes:
+  Monday:
+    - chimichurri
+  Sunday:
+    - veg-fruit-prep
+groceries:
+  - name: berries
+    amount: 1.0
+    unit: Item
+  - name: red pepper flakes
+    amount: 1.0
+    unit: Item
+  - name: carrots
+    amount: 1.0
+    unit: Item
+  - name: bananas
+    amount: 1.0
+    unit: Item
+  - name: red wine vinegar
+    amount: 20.0
+    unit: Gram
+  - name: pepper
+    amount: 1.0
+    unit: Item
+  - name: granola
+    amount: 1.0
+    unit: Item
+  - name: yogurt
+    amount: 1.0
+    unit: Item
+  - name: garlic
+    amount: 2.0
+    unit: Item
+  - name: olive oil
+    amount: 75.0
+    unit: Gram
+  - name: oregano
+    amount: 1.0
+    unit: Item
+  - name: onion
+    amount: 1.0
+    unit: Item
+  - name: nuts
+    amount: 1.0
+    unit: Item
+  - name: parsley
+    amount: 1.0
+    unit: Item

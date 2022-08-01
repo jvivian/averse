@@ -1,0 +1,40 @@
+---
+name: chicken burrito bowl
+tags:
+  - instant pot
+  - chicken
+  - fast
+  - mealprep
+ingredients:
+  - name: chicken breast
+    amount: 1.0
+    unit: Lb
+  - name: chicken broth
+    amount: 1.0
+    unit: Cup
+  - name: corn
+    amount: 1.0
+    unit: Can
+  - name: black beans
+    amount: 1.0
+    unit: Can
+  - name: salsa
+    amount: 1.0
+    unit: Cup
+  - name: green chiles
+    amount: 4.5
+    unit: Oz
+  - name: rice
+    amount: 1.0
+    unit: Cup
+  - name: cheese
+    amount: 1.0
+    unit: Cup
+  - name: cilantro
+    amount: 2.0
+    unit: Tbsp
+steps:
+  - "Add chicken cubes, seasoning, and 1/4th broth and combine"
+  - "stir in corn, beans, and chiles"
+  - "Add rice and broth - do not stir"
+  - "Manual/high 10m quick release and stir in cheese"

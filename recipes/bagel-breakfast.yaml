@@ -1,0 +1,36 @@
+---
+name: bagel breakfast
+tags:
+  - breakfast
+ingredients:
+  - name: bacon
+    amount: 1.0
+    unit: Lb
+  - name: bagels
+    amount: 1.0
+    unit: Item
+  - name: eggs
+    amount: 1.0
+    unit: Item
+  - name: fruit
+    amount: 1.0
+    unit: Item
+  - name: green onions
+    amount: 1.0
+    unit: Item
+  - name: leafy green
+    amount: 1.0
+    unit: Item
+  - name: cream cheese
+    amount: 1.0
+    unit: Item
+  - name: coffee
+    amount: 1.0
+    unit: Item
+  - name: half-and-half
+    amount: 1.0
+    unit: Item
+steps:
+  - Cook bacon and prepare other items
+  - Cook eggs (on low) and toast bagels
+  - assemble plate with some fruit and leafy greens

@@ -1,0 +1,57 @@
+---
+name: chicken tortilla soup
+tags:
+  - instant pot
+  - chicken
+  - soup
+ingredients:
+  - name: onion
+    amount: 1.0
+    unit: Item
+  - name: garlic
+    amount: 2.0
+    unit: Item
+  - name: corn tortillas
+    amount: 2.0
+    unit: Item
+  - name: cilantro
+    amount: 2.0
+    unit: Tbsp
+  - name: tomato
+    amount: 1.0
+    unit: Item
+  - name: black beans
+    amount: 1.0
+    unit: Can
+  - name: corn
+    amount: 1.0
+    unit: Cup
+  - name: chicken broth
+    amount: 4.0
+    unit: Cup
+  - name: chili powder
+    amount: 2.0
+    unit: Tsp
+  - name: cumin
+    amount: 1.0
+    unit: Tsp
+  - name: cayenne pepper
+    amount: 0.25
+    unit: Tsp
+  - name: bay leaf
+    amount: 1.0
+    unit: Item
+  - name: chicken breast
+    amount: 3.0
+    unit: Item
+  - name: cheese
+    amount: 1.0
+    unit: Item
+  - name: lime
+    amount: 1.0
+    unit: Item
+steps:
+  - "Saute, add oil then onion. Add garlic, cilantro, and chopped up tortilla squares and cook for one minute before adding tomato, black beans, corn, 3 cups of broth, spices, and chicken breasts"
+  - Select soup mode and set time to 4 minutes.
+  - Fry tortilla strip on the stove because fuck ya its awesome
+  - "Quick release pressure, remove chicken breasts and shred, return to pot and stir. Serve and add shredded cheese, tortilla strips, lime, and cilantro."

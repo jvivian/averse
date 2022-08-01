@@ -1,0 +1,34 @@
+---
+name: pot roast and veggies
+tags:
+  - instant pot
+  - beef
+ingredients:
+  - name: boneless beef chuck roast
+    amount: 3.0
+    unit: Lb
+  - name: salt
+    amount: 1.0
+    unit: Item
+  - name: onion powder
+    amount: 1.0
+    unit: Item
+  - name: beef broth
+    amount: 1.0
+    unit: Can
+  - name: worcestershire sauce
+    amount: 1.5
+    unit: Tbsp
+  - name: onion
+    amount: 1.0
+    unit: Item
+  - name: carrots
+    amount: 4.0
+    unit: Item
+  - name: potatoes
+    amount: 4.0
+    unit: Item
+steps:
+  - Saute onion and brown beef
+  - "Add beef broth, worcestershire, 30min QR"
+  - Add carrots and potatoes. 15m QR

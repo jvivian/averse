@@ -1,0 +1,62 @@
+---
+name: 2022-07-24
+recipes:
+  Sunday:
+    - chimichurri
+  Monday:
+    - dill-pasta-salad
+groceries:
+  - name: dijon mustard
+    amount: 1.0
+    unit: Tbsp
+  - name: onion powder
+    amount: 1.0
+    unit: Tsp
+  - name: garlic
+    amount: 1.0
+    unit: Tbsp
+  - name: olive oil
+    amount: 0.5
+    unit: Cup
+  - name: dill pickle
+    amount: 1.5
+    unit: Cup
+  - name: olive oil
+    amount: 75.0
+    unit: Gram
+  - name: red wine vinegar
+    amount: 20.0
+    unit: Gram
+  - name: cherry tomatoes
+    amount: 1.0
+    unit: Cup
+  - name: oregano
+    amount: 1.0
+    unit: Item
+  - name: red pepper flakes
+    amount: 1.0
+    unit: Item
+  - name: pepperoni
+    amount: 1.0
+    unit: Cup
+  - name: parsley
+    amount: 1.0
+    unit: Item
+  - name: rigatoni pasta
+    amount: 8.0
+    unit: Oz
+  - name: salt
+    amount: 0.75
+    unit: Tsp
+  - name: dried dill
+    amount: 2.0
+    unit: Tsp
+  - name: garlic
+    amount: 2.0
+    unit: Item
+  - name: cheddar cheese
+    amount: 1.0
+    unit: Cup
+  - name: pickle juice
+    amount: 0.5
+    unit: Cup

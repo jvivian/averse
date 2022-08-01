@@ -1,0 +1,27 @@
+---
+name: chimichurri
+tags:
+  - condiment
+ingredients:
+  - name: parsley
+    amount: 1.0
+    unit: Item
+  - name: garlic
+    amount: 2.0
+    unit: Item
+  - name: olive oil
+    amount: 75.0
+    unit: Gram
+  - name: red wine vinegar
+    amount: 20.0
+    unit: Gram
+  - name: oregano
+    amount: 1.0
+    unit: Item
+  - name: red pepper flakes
+    amount: 1.0
+    unit: Item
+steps:
+  - Finely chop parsley and mince garlic
+  - Add vegetables to a bowl and add olive oil and red wine vinegar
+  - Mix together then sprinkle in oregano, red pepper flakes, salt, and about 10 cranks of black pepper

@@ -1,0 +1,37 @@
+---
+name: chicken teriyaki
+tags:
+  - sous vide
+  - asian
+  - chicken
+ingredients:
+  - name: chicken breast
+    amount: 1.5
+    unit: Lb
+  - name: sugar
+    amount: 3.0
+    unit: Tbsp
+  - name: soy sauce
+    amount: 0.25
+    unit: Cup
+  - name: rice vinegar
+    amount: 2.0
+    unit: Tbsp
+  - name: garlic (minced)
+    amount: 2.0
+    unit: Item
+  - name: oil
+    amount: 0.5
+    unit: Tbsp
+  - name: cornstarch
+    amount: 1.0
+    unit: Tbsp
+  - name: water
+    amount: 1.0
+    unit: Tbsp
+steps:
+  - Sous vide at 65C (149F) for ~1.5 hours
+  - "Whisk soy sauce, sugar, rice vinegar, minced garlic, oil"
+  - "Add chicken breasts to ziplock, add sauce, arrange in single layer, and submerge"
+  - "Pat dry the chicken and slice into bite-sized chunks, pour juice from bag onto the stove"
+  - "Mix cornstarch and water, then pour into the skillet to thicken. Stir constantly for a few minutes, then add chicken, toss, serve with favorite side."

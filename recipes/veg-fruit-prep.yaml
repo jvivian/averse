@@ -1,0 +1,31 @@
+---
+name: veg fruit prep
+tags:
+  - mealprep, healthy
+ingredients:
+  - name: pepper
+    amount: 1.0
+    unit: Item
+  - name: onion
+    amount: 1.0
+    unit: Item
+  - name: carrots
+    amount: 1.0
+    unit: Item
+  - name: bananas
+    amount: 1.0
+    unit: Item
+  - name: granola
+    amount: 1.0
+    unit: Item
+  - name: berries
+    amount: 1.0
+    unit: Item
+  - name: yogurt
+    amount: 1.0
+    unit: Item
+  - name: nuts
+    amount: 1.0
+    unit: Item
+steps:
+  - "On sunday, cut vegetables and place in prep containers for the week"

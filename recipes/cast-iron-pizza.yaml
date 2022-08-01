@@ -1,0 +1,33 @@
+---
+name: cast iron pizza
+tags:
+  - pizza
+  - dinner
+  - italian
+ingredients:
+  - name: pizza dough
+    amount: 1.0
+    unit: Item
+  - name: yellow onion
+    amount: 1.0
+    unit: Item
+  - name: mushrooms
+    amount: 1.0
+    unit: Item
+  - name: pesto
+    amount: 1.0
+    unit: Item
+  - name: mozzarella
+    amount: 8.0
+    unit: Oz
+  - name: tomato
+    amount: 1.0
+    unit: Item
+  - name: olives
+    amount: 1.0
+    unit: Item
+steps:
+  - Spread dough out slighly larger tan cast iron and preheat oven to 550
+  - "spread sauce out, use a good amount if the dough is thick"
+  - "add cheese, then other toppings, then cook for 12-15 minutes"
+  - Immediately sprinkle with additional cheese (parmesan or pecorino for a twist)
