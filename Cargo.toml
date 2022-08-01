@@ -1,0 +1,17 @@
+[package]
+name = "averse"
+version = "0.1.0"
+edition = "2021"
+authors = ["John Vivian <https://github.com/jvivian>"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = {version="3.1.6", features=["derive"]}
+colored = "2"
+serde = {version="1.0", features=["derive"]}
+serde_yaml = "0.8"
+tabled = "0.6.1"
+dialoguer = {version="0.10.1", features=["fuzzy-select"]}
+console = "0.15.0"
+thiserror = "1.0.31"
